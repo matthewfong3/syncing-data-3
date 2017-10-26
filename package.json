@@ -1,10 +1,6 @@
 {
   "name": "syncing-data-3",
   "version": "1.0.0",
-  "engines": {
-    "node": "8.4.0",
-    "npm": "5.3.0"
-  },
   "description": "syncing data 3 assignment",
   "main": "./server/app.js",
   "scripts": {
